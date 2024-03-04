@@ -1,6 +1,7 @@
 {
   "name": "js-test",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/Pavlooou/js-test/issues"
   },
-  "homepage": "https://github.com/Pavlooou/js-test#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "homepage": "https://github.com/Pavlooou/js-test#readme"
 }
