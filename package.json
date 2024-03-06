@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Pavlooou/js-test/issues"
   },
-  "homepage": "https://github.com/Pavlooou/js-test#readme"
+  "homepage": "https://github.com/Pavlooou/js-test#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
